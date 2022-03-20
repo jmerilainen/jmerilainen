@@ -1,4 +1,4 @@
-Hi, I'm Joonas 👊
+Hello, I'm Joonas 👊
 
 I'm interested in component-driven UI development, back-end development and automating things.
 
